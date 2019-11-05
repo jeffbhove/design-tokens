@@ -1,0 +1,50 @@
+{
+  "spacing": {
+    "padding": {
+      "xlarge": {
+        "value": "{spacing.44.value}"
+      },
+      "large": {
+        "value": "{spacing.24.value}"
+      },
+      "medium-large": {
+        "value": "{spacing.20.value}"
+      },
+      "medium": {
+        "value": "{spacing.16.value}"
+      },
+      "small": {
+        "value": "{spacing.8.value}"
+      },
+      "xsmall": {
+        "value": "{spacing.4.value}"
+      }
+    },
+    "margin": {
+      "xxlarge": {
+        "value": "{spacing.100.value}"
+      },
+      "special": {
+        "value": "{spacing.60.value}"
+      },
+      "xlarge": {
+        "value": "{spacing.40.value}"
+      },
+      "larger": {
+        "value": "{spacing.32.value}"
+      },
+      "large": {
+        "value": "{spacing.24.value}"
+      },
+      "medium": {
+        "value": "{spacing.16.value}"
+      },
+      "small": {
+        "value": "{spacing.8.value}"
+      },
+      "xsmall": {
+        "value": "{spacing.4.value}"
+      }
+    }
+  }
+}

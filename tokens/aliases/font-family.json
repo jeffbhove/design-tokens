@@ -1,0 +1,14 @@
+{
+  "font": {
+    "family": {
+      "regular": {
+        "value": "'Nimbus Sans Regular', Arial, Helvetica, sans-serif",
+        "comment": "token of the font-family, Nimbus Sans Regular size"
+      },
+      "bold": {
+        "value": "'Nimbus Sans Bold', Arial, Helvetica, sans-serif",
+        "comment": "token of the font-family, Nimbus Sans Bold size"
+      }
+    }
+  }
+}

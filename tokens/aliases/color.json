@@ -1,0 +1,99 @@
+{
+  "color": {
+    "aqua": {
+      "100": {
+        "value": "#38939b"
+      }
+    },
+    "black": {
+      "value": "#000000"
+    },
+    "blue": {
+      "010": {
+        "value": "#e6f0f5"
+      },
+      "100": {
+        "value": "#086ea1"
+      },
+      "light": {
+        "value": "#05c3de"
+      },
+      "dark": {
+        "value": "#054c70"
+      },
+      "navy": {
+        "value": "#043954"
+      }
+    },
+    "green": {
+      "base": {
+        "value": "#7d9845"
+      },
+      "010": {
+        "value": "#e5f2eb"
+      },
+      "100": {
+        "value": "#007a39"
+      }
+    },
+    "gray": {
+      "005": {
+        "value": "#F5F5F5"
+      },
+      "010": {
+        "value": "#EBEBEB"
+      },
+      "020": {
+        "value": "#d8d8d8"
+      },
+      "040": {
+        "value": "#B1B1B1"
+      },
+      "070": {
+        "value": "#767676"
+      },
+      "090": {
+        "value": "#4F4F4F"
+      },
+      "100": {
+        "value": "#3B3B3B"
+      },
+      "110": {
+        "value": "#2b2b2b"
+      }
+    },
+    "orange": {
+      "010": {
+        "value": "#f8e7dc"
+      },
+      "100": {
+        "value": "#e17a17"
+      }
+    },
+    "purple": {
+      "value": "#614b79"
+    },
+    "red": {
+      "010": {
+        "value": "#fbe9e8"
+      },
+      "100": {
+        "value": "#cd271b"
+      }
+    },
+    "white": {
+      "value": "#FFFFFF"
+    },
+    "yellow": {
+      "010": {
+        "value": "#fffbe5"
+      },
+      "100": {
+        "value": "#ffdd00"
+      },
+      "dark": {
+        "value": "#DAAA00"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "font": {
+    "size": {
+      "body": {
+        "default": {
+          "value": "{font.size.rem.1}"
+        },
+        "large": {
+          "default": {
+            "value": "1_5"
+          },
+          "desktop": {
+            "value": "1_25"
+          }
+        }
+      }
+    }
+  }
+}
