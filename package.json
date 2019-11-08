@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node ./build.js && copyfiles -f ./dist/formats/css/variables.css ../html/css",
+    "build": "node ./build.js && copyfiles -f ./dist/formats/css/variables.css ../html/.storybook/css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
