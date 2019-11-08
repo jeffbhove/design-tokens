@@ -1,0 +1,39 @@
+{
+    "text": {
+        "font-size": {
+            "default": {
+                "value": "{font.size.rem.1.value}"
+            }
+        },
+        "color": {
+            "primary": {
+                "value": "{color.black.value}"
+            },
+            "secondary": {
+                "value": "{color.white.value}"
+            },
+            "tertiary": {
+                "value": "{color.gray.040.value}"
+            }
+        },
+        "link": {
+            "unvisited": {
+                "highlight": {
+                    "value": "{color.blue.light.value}"
+                },
+                "light": {
+                    "value": "{color.blue.dark.value}"
+                },
+                "medium": {
+                    "value": "{color.black.value}"
+                }
+            },
+            "visited": {
+                "value": "{color.blue.light.value}"
+            },
+            "hover": {
+                "value": "{color.white.value}"
+            }
+        }
+    }
+}

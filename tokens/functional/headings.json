@@ -1,0 +1,52 @@
+{
+    "heading": {
+        "h1": {
+            "color": {
+                "value": "{color.gray.040.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.48.value}"
+            }
+        },
+        "h2": {
+            "color": {
+                "value": "{color.blue.dark.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.36.value}"
+            }
+        },
+        "h3": {
+            "color": {
+                "value": "{color.green.base.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.24.value}"
+            }
+        },
+        "h4": {
+            "color": {
+                "value": "{color.purple.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.18.value}"
+            }
+        },
+        "h5": {
+            "color": {
+                "value": "{color.orange.100.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.16.value}"
+            }
+        },
+        "h6": {
+            "color": {
+                "value": "{color.yellow.dark.value}"
+            },
+            "font-size": {
+                "value": "{font.size.px.14.value}"
+            }
+        }
+    }
+}
