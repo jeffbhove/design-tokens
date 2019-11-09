@@ -13,7 +13,7 @@
                 "value": "{color.white.value}"
             },
             "tertiary": {
-                "value": "{color.gray.040.value}"
+                "value": "{color.gray.light.value}"
             }
         },
         "link": {

@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "copy-webpack": "copyfiles -f ./dist/formats/scss/_variables.scss ../webpack-starter/src/styles",
+    "copy-json": "copyfiles -f ./dist/formats/json/variables.json ../angular/src/app/charts",
     "copy-html": "copyfiles -f ./dist/formats/css/variables.css ../html/.storybook/css",
-    "build": "node ./build.js && npm run copy-html && npm run copy-webpack",
+    "build": "node ./build.js && npm run copy-html && npm run copy-webpack && npm run copy-json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

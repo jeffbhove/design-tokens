@@ -1,0 +1,24 @@
+{
+    "charts": {
+        "running.order": {
+            "color1": {
+                "value": "{color.blue.light.value}"
+            },
+            "color2": {
+                "value": "{color.blue.dark.value}"
+            },
+            "color3": {
+                "value": "{color.green.base.value}"
+            },
+            "color4": {
+                "value": "{color.orange.dark.value}"
+            },
+            "color5": {
+                "value": "{color.gray.light.value}"
+            },
+            "color6": {
+                "value": "{color.red.dark.value}"
+            }
+        }
+    }
+}

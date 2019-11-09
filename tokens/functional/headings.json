@@ -2,7 +2,7 @@
     "heading": {
         "h1": {
             "color": {
-                "value": "{color.gray.040.value}"
+                "value": "{color.gray.light.value}"
             },
             "font-size": {
                 "value": "{font.size.px.48.value}"
@@ -34,7 +34,7 @@
         },
         "h5": {
             "color": {
-                "value": "{color.orange.100.value}"
+                "value": "{color.orange.dark.value}"
             },
             "font-size": {
                 "value": "{font.size.px.16.value}"
