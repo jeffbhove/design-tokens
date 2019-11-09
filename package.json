@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node ./build.js && copyfiles -f ./dist/formats/css/variables.css ../html/.storybook/css",
+    "copy-webpack": "copyfiles -f ./dist/formats/scss/_variables.scss ../webpack-starter/src/styles",
+    "copy-html": "copyfiles -f ./dist/formats/css/variables.css ../html/.storybook/css",
+    "build": "node ./build.js && npm run copy-html && npm run copy-webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
