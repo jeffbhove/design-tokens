@@ -6,7 +6,7 @@ StyleDictionary.registerTransform({
     transformer: function (prop) {
         if (prop.attributes.category === 'font' &&
             (prop.attributes.type === 'size' || prop.attributes.type==='letter-spacing' || prop.attributes.type==='line-height') &&
-            ! prop.original.value.includes('%')) {
+            ! prop.original.value.includes('%') && ! prop.original.value.includes('px')) {
             return parseFloat(prop.original.value) + 'rem';
         } else {
             return prop.original.value

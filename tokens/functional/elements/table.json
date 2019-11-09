@@ -1,0 +1,17 @@
+{
+    "table": {
+        "head": {
+            "background-color": {
+                "value": "{color.gray.070.value}"
+            },
+            "color": {
+                "value": "{color.blue.light.value}"
+            }
+        },
+        "body": {
+            "font-size": {
+                "value": "{font.size.px.14.value}"
+            }
+        }
+    }
+}
