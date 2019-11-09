@@ -1,0 +1,24 @@
+{
+    "link": {
+        "default": {
+            "value": "{color.blue.dark.value}"
+        },
+        "unvisited": {
+            "highlight": {
+                "value": "{color.blue.010.value}"
+            },
+            "light": {
+                "value": "{color.blue.light.value}"
+            },
+            "medium": {
+                "value": "{color.black.value}"
+            }
+        },
+        "visited": {
+            "value": "{color.blue.light.value}"
+        },
+        "hover": {
+            "value": "{color.white.value}"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "text": {
+        "font-size": {
+            "default": {
+                "value": "{font.size.rem.1.value}"
+            }
+        },
+        "color": {
+            "primary": {
+                "value": "{color.black.value}"
+            },
+            "secondary": {
+                "value": "{color.white.value}"
+            },
+            "tertiary": {
+                "value": "{color.gray.light.value}"
+            }
+        }
+    }
+}
